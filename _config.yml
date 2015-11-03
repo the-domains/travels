@@ -1,6 +1,6 @@
 name: travels
 favicon: null
-layout_spectrum: 0.5823850573506206
+layout_spectrum: 0.10013
 typography_spectrum: 0.2068077155854553
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.8529703251551837
+  brandStrength: 0.625
   lightness: 0.9336916396860033
   saturation: 0.09202893590554595
   rhythmicContrast: 0.149944570614025
